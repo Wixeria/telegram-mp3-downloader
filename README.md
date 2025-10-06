@@ -80,8 +80,8 @@ Enter max number of files to download per chat (0 for all): 10
 Output:
 ```yaml
 Downloading 10 files from chat: my_fav_music
-Whigfield - Sexy Eyes (Amen Re...: 100%|█████████| 17.4M/17.4M [01:29<00:00, 194kB/s]
-✅ Downloaded: Whigfield - Sexy Eyes (Amen Remix).mp3
+Team Sleep - Blvd. Nights (Amen Re...: 100%|█████████| 17.4M/17.4M [01:29<00:00, 194kB/s]
+✅ Downloaded: Team Sleep - Blvd. Nights.mp3
 ```
 
 ----
@@ -90,7 +90,7 @@ Whigfield - Sexy Eyes (Amen Re...: 100%|█████████| 17.4M/17.4M
 
 - All events are logged to download.log:
 ```yaml
-[2025-10-06 01:32:10] Downloaded: Whigfield - Sexy Eyes (Amen Remix).mp3
+[2025-10-06 01:32:10] Downloaded: Team Sleep - Blvd. Nights.mp3
 [2025-10-06 01:33:45] Skipped: Song.mp3 (already exists)
 [2025-10-06 01:34:12] Error: BrokenFile.mp3 - Connection reset
 ```
